@@ -11,5 +11,8 @@ USTH ICT 2024 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
+* Nguyen Ba Vinh (22BI13472)
+* Nguyen Minh Khoi (22BI13220)
+* Tran Trung Kien (22BI13227)
+* Dinh Tuan Kiet (22BI13229)
+* Nguyen Khac Cong (BA12-033)
