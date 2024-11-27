@@ -5,7 +5,6 @@ import threading
 def start_client():
     clientSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-    port = 5001
     clientSocket.connect(("127.0.0.1", 5000))
     
     req = input("Request <UPLOAD filename or DOWNLOAD filename>: ")
