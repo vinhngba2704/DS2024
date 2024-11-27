@@ -6,7 +6,7 @@ def start_server():
     serverSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
     port = 5000
-    serverSocket.bind(("127.0.0.1", 5000))
+    serverSocket.bind(("127.0.0.1", port))
     serverSocket.listen(1)
     print(f"Server is listening on port {port}...")
 
